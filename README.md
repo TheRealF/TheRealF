@@ -1,8 +1,9 @@
-## Codewars profile:
-[TheRealF 🔗](https://pages.github.com/).
-https://www.codewars.com/users/TheRealF
+## Codewars profile
+
+[TheRealF 🔗]([https://pages.github.com/](https://www.codewars.com/users/TheRealF))
 ![image](https://www.codewars.com/users/TheRealF/badges/large)
-My Github stats
+
+## My Github stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api?username=therealf&theme=tokyonight&show_icons=true)
 
