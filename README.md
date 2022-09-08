@@ -2,7 +2,8 @@
 
 [TheRealF 🔗](https://www.codewars.com/users/TheRealF)
 
-![image][(https://www.codewars.com/users/TheRealF/badges/large)](https://www.codewars.com/users/TheRealF/badges/micro)
+![image](https://www.codewars.com/users/TheRealF/badges/micro)
+
 
 
 ## My Github stats
