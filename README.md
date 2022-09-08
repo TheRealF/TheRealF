@@ -1,6 +1,7 @@
 ## Codewars profile
 
-[TheRealF 🔗](https://www.codewars.com/users/TheRealF). 
+[TheRealF 🔗](https://www.codewars.com/users/TheRealF)
+
 ![image](https://www.codewars.com/users/TheRealF/badges/large)
 
 ## My Github stats
