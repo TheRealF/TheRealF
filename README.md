@@ -1,4 +1,4 @@
-![Green and White Simple Blog Post Guide LinkedIn Article Cover Image ](https://user-images.githubusercontent.com/12965708/189675434-32c38ce5-40cd-4b93-8de0-7687cb632522.gif)
+![Cover Image ](https://user-images.githubusercontent.com/12965708/189675434-32c38ce5-40cd-4b93-8de0-7687cb632522.gif)
 
 
 ## My Github stats
